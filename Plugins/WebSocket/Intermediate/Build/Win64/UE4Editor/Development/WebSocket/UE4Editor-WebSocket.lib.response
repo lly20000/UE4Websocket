@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WebSocket.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\UE4\UEWebsocket\Intermediate\Build\Win64\UEWebsocketEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\WebSocketBlueprintLibrary.cpp.obj"
+"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.1_of_2.cpp.obj"
+"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.2_of_2.cpp.obj"
+"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Module.WebSocket.gen.cpp.obj"
+"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\Default.rc2.res"
+/OUT:"D:\UE4\UEWebsocket\Plugins\WebSocket\Intermediate\Build\Win64\UE4Editor\Development\WebSocket\UE4Editor-WebSocket.lib"
+/INCLUDE:IMPLEMENT_MODULE_WebSocket

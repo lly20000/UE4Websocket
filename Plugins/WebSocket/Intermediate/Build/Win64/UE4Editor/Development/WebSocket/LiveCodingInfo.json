@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WebSocket.1_of_2.cpp.obj": [
+			"WebSocket.cpp.obj",
+			"WebSocketBase.cpp.obj",
+			"WebSocketCA.cpp.obj",
+			"WebSocketBlueprintLibrary.cpp.obj"
+		],
+		"Module.WebSocket.2_of_2.cpp.obj": [
+			"WebSocketContext.cpp.obj"
+		],
+		"Module.WebSocket.gen.cpp.obj": [
+			"WebSocket.init.gen.cpp.obj",
+			"WebSocketBase.gen.cpp.obj",
+			"WebSocketBlueprintLibrary.gen.cpp.obj",
+			"WebSocketContext.gen.cpp.obj"
+		]
+	}
+}
